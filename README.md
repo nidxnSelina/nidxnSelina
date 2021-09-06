@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Selina Wang @nidxnSelina
+- 👀 I’m interested in Computer Science, Biology, and Physics.
+- 🌱 I’m currently taking courses on all of them, as well as Multivariable Calculus and College Writing: Citizen Scientists.
+- 💞️ I’m looking to collaborate on Comp Sci Studio works, feel free to reach out to me so we can have fun coding together;)
